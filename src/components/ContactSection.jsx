@@ -30,7 +30,7 @@ export const ContactSection = () => {
               abarnasri22@gmail.com
             </a>
           </div>
-          <div className="flex items-center justify-center gap-3">
+{/*           <div className="flex items-center justify-center gap-3">
             <Phone className="text-primary" />
             <a
               href="tel:+11234567890"
@@ -38,7 +38,7 @@ export const ContactSection = () => {
             >
               +91 75984 65652
             </a>
-          </div>
+          </div> */}
           <div className="flex items-center justify-center gap-3">
             <MapPin className="text-primary" />
             <span className="text-muted-foreground">
