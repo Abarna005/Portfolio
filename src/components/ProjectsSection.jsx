@@ -44,24 +44,14 @@ const projects = [
   {
     id: 1,
     title: "Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
+    description: "A beautiful landing page app using Html and Tailwind.",
     image: Project1,
     tags: ["Html", "tailwind.css"],
     demoUrl: "#",
     githubUrl: "https://github.com/Abarna005/Finance-App",
     category: "Frontend"
   },
-  {
-    id: 2,
-    title: "Shopping Landing Page",
-    description:
-      "Interactive analytics dashboard with data visualization and filtering.",
-    image: "/projects/project2.png",
-    tags: ["Html", "Css"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/Abarna005/Shopping",
-    category: "Frontend"
-  },
+  
   {
     id: 3,
     title: "E-commerce Platform",
