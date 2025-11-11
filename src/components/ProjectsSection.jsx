@@ -44,7 +44,7 @@ const projects = [
   {
     id: 1,
     title: "Landing Page",
-    description: "A beautiful landing page app using Html and Tailwind.",
+    description: "A beautiful landing page app using HTML and Tailwind.",
     image: Project1,
     tags: ["Html", "tailwind.css"],
     demoUrl: "#",
@@ -54,11 +54,11 @@ const projects = [
   
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Learning Dashboard",
     description:
-      "Full-featured e-commerce platform with authentication and payments.",
+      "Students' online learning is easier and efficient.",
     image: Leanify,
-    tags: ["React", "Node.js", "Stripe"],
+    tags: ["Figma"],
     demoUrl: "",
     githubUrl:
       "https://www.behance.net/gallery/234110397/Online-LearniFy-Dashboard-UI",
